@@ -36,6 +36,7 @@ ENV/
 
 # Project specific
 data/projects.json
+llmcontext.md
 
 # Logs
 *.log 
